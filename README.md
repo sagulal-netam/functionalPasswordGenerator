@@ -1,0 +1,1 @@
+ # this is a function password generator which small & capital latter word & symbols,numbers does mix and make strong password with length. 
