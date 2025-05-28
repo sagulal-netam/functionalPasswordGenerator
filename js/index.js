@@ -5,6 +5,7 @@ showlangth();
 function showlangth(){
   document.querySelector('#inputRange').addEventListener('input',e => {
     document.querySelector('#PasswordCounter').textContent = e.target.value;
+    
   });
 }
 
